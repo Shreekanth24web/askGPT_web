@@ -22,7 +22,7 @@ function Signup() {
             Swal.fire({
                 position: "top",
                 icon: "warning",
-                title: "Please fill your login details",
+                title: "Please fill your signup details",
                 showConfirmButton: false,
                 timer: 2700,
                 toast: true,
