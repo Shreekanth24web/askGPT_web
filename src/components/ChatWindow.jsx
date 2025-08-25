@@ -126,7 +126,7 @@ function ChatWindow() {
         setIsOpen(false)
         setPrevChats([])
         Swal.fire({
-            position: "top-end",
+            position: "center",
             icon: "success",
             title: "You have been logged out successfully",
             showConfirmButton: false,
